@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="FuelDb">
+  <DataContextMoniker Name="/FuelDbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="dc606117-894f-4379-84d5-6ba720b22497" isExpanded="false" absoluteBounds="3.375, 2.75, 2, 0.45">
+      <DataClassMoniker Name="/FuelDbDataContext/TXN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ba98a884-b270-4552-ae70-db92cba33dfd" absoluteBounds="3.39, 3.21, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
